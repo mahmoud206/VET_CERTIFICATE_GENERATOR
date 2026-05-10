@@ -1,0 +1,7 @@
+arabic-reshaper
+bidi
+reportlab
+qrcode[pil]
+Pillow
+ttkbootstrap
+python-docx

@@ -1,6 +1,6 @@
 # 🩺 Veterinary Certificate Generator – El-Anam Clinic
 
-A bilingual (Arabic/English) desktop application for generating **health certificates** for animals, designed for **El-Anam Veterinary Clinic** (branches: Khamis Mushait & Dhahbia). Built with Python, `ttkbootstrap`, `reportlab` (PDF), and `python-docx` (Word).
+A bilingual (Arabic/English) desktop application for generating **health certificates** for animals, designed for **El-Anam Veterinary Clinic** (branches: Khamis Mushait & Dhahbia). Built with Python, `ttkbootstrap`, `reportlab` (PDF), and `python-docx` (Word) , the software is available in  Arabic and English Languages.
 
 ![App Screenshot](Screenshots/app_demo.png)
 
